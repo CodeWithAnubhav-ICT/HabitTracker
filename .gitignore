@@ -1,0 +1,22 @@
+# Environment Variables (Crucial for protecting your API keys/tokens)
+.env
+.env.*
+secrets.py
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+pyvenv.cfg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
